@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Páginas principales -->
+  <url>
+    <loc>http://zksama.com/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Subdirectorios -->
+  <url>
+    <loc>http://zksama.com/adivina-anime/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/animebirthday/</loc>
+    <lastmod>2023-04-19T04:25:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/como-jugar/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/escribe-tu-historia/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/guess/</loc>
+    <lastmod>2023-04-19T04:25:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/higherlower/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/navidad/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/piano/</loc>
+    <lastmod>2023-11-06T16:07:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/quien-es-quien/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/se-busca/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/sort/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://zksama.com/whowantotaku/</loc>
+    <lastmod>2023-11-06T12:41:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
